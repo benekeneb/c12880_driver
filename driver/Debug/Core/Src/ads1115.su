@@ -1,0 +1,2 @@
+../Core/Src/ads1115.c:9:9:adcRead	32	static
+../Core/Src/ads1115.c:46:9:adcReadVoltage	16	static

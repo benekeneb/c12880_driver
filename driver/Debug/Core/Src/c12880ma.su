@@ -1,0 +1,9 @@
+../Core/Src/c12880ma.c:38:6:setSensorClockMode	16	static
+../Core/Src/c12880ma.c:57:6:sensorInit	8	static
+../Core/Src/c12880ma.c:73:6:sensorStartScan	16	static
+../Core/Src/c12880ma.c:90:5:sensorIsReady	4	static
+../Core/Src/c12880ma.c:95:6:sensorRead	2336	static
+../Core/Src/c12880ma.c:113:6:handleSensorTrigger	16	static
+../Core/Src/c12880ma.c:203:5:sensorGetIntegrationTime	4	static
+../Core/Src/c12880ma.c:208:5:sensorGetAverageCount	4	static
+../Core/Src/c12880ma.c:213:6:HAL_GPIO_EXTI_Callback	16	static
